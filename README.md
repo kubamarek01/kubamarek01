@@ -1,3 +1,3 @@
-# Web developer - About me
+# About me
 ```
 👋 Hi, my name is Jakub, I'm 20 years old and from Poland
