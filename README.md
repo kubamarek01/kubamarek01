@@ -1,1 +1,1 @@
-👋 Hi, my name is Jakub, I'm 20 years old and from Poland 
+* 👋 Hi, my name is Jakub, I'm 20 years old and from Poland *
